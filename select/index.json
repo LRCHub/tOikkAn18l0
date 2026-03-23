@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "メロメラ",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-03-23T18:33:52.110460Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロメラ",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_メロメラ_iLiFE!.txt"
+    }
+  ]
+}
